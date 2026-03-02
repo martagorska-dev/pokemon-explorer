@@ -18,7 +18,7 @@ React | TailwindCSS / MUI | fetch + [TanStack Query](https://tanstack.com/query/
 ## Installation
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/martagorska-dev/pokemon-explorer
 cd pokemon-explorer
 npm install
 npm run dev         # start dev server
