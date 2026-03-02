@@ -13,7 +13,7 @@
 
 ## Technologies
 
-React | TailwindCSS / MUI | fetch + [TanStack Query](https://tanstack.com/query/latest) | React Router | Vite
+React | TailwindCSS / MUI | fetch + [TanStack Query](https://tanstack.com/query/latest) | Vite
 
 ## Installation
 
